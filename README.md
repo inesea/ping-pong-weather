@@ -1,2 +1,4 @@
 # ping-pong-weather
-google app script trigger for ping pong weather check
+Google Apps Script trigger for ping pong weather check.
+
+It requires an API key to access `api.weatherapi.com`.
